@@ -8,8 +8,6 @@ views: "100"
 author: "Florian Drechsler"
 author_img: "https://placehold.it/50x50"
 author_description: "At vero eos et accusam <a class='link-single-internal' href='#'>Link</a> et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur  <a class='link-single-external' href='#'>Github</a>  sadipscing elitr, sed diam nonumy eirmod tempor"
-tableOfContents: ["General Criteria", "Layout", "Formatting", "Submissions", "Potential References"]
-tableOfContentLinks: ["#general-criteria", "#layout", "#formatting", "#submissions", "#potential References"]
 header_img: ""     
 ---
 
