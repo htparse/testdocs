@@ -1,5 +1,5 @@
 ---
-path: "/community/githubtest/test"
+path: "/community/share/githubtest.md"
 date: "2019-01-10"
 title: "Contribution Guidelines"
 short_description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
@@ -52,6 +52,24 @@ Tutorials should all have the same basic layout:
 The title should make it clear what the goal of your tutorial is, not just what the tutorial is about.
 
 The first paragraph or paragraphs are there for you to explain what your tutorial will be doing. Make sure users know exactly what they will endup with if they follow your tutorial, and let them know if they need any specific prerequisites.
+## Mermaid!
+
+```mermaid
+classDiagram
+Class01 <|-- AveryLongClass : Cool
+Class03 *-- Class04
+Class05 o-- Class06
+Class07 .. Class08
+Class09 --> C2 : Where am i?
+Class09 --* C3
+Class09 --|> Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+Class08 <--> C2: Cool label
+```
 
 Steps are the actual steps users will be taking to complete your tutorial. Each step should build on the previous one, until the final step that finishes the tutorial. As mentioned earlier, don’t leave out any steps, no matter how obvious they may seem.
 
