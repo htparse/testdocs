@@ -1,5 +1,5 @@
 ---
-path: "/community/share/contribution-guide"
+path: "/community/githubtest/test"
 date: "2019-01-10"
 title: "Contribution Guidelines"
 short_description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
