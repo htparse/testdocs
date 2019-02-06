@@ -1,3 +1,17 @@
+---
+path: "/community/share/install-free-bsd"
+date: "2019-02-06"
+title: "Install FreeBSD"
+short_description: "The FreeBSD Rescue System is updated regularly and provides bsdinstall for easy installation."
+tags: ["getting started", "Hetzner Offical"]
+views: "100"
+author: "Hetzner Online"
+author_img: "https://avatars3.githubusercontent.com/u/30047064?s=200&v=4"
+author_description: "Web hoster & data center operator | For more than 20 years we've made a name for ourself with our amazingly low prices, quality hardware, efficient data centers, and knowledgable customer support."
+header_img: "https://community-cdn-digitalocean-com.global.ssl.fastly.net/assets/tutorials/images/large/get_started_freeBSD.png?1540922872"     
+---
+
+
 ##Introduction
 The FreeBSD Rescue System is updated regularly and provides bsdinstall for easy installation.
 
