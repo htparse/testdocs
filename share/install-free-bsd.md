@@ -67,7 +67,7 @@ route_default="default $gateway_ip"
 
 ###IPv6
 
-The default IPv6 gateway `\<fe80::1\>` can be defined in `/etc/rc.conf`:
+The default IPv6 gateway `<fe80::1>` can be defined in `/etc/rc.conf`:
 
 ```
 ipv6_default_interface="re0"
@@ -77,7 +77,7 @@ ipv6_defaultrouter="fe80::1%re0"
 ```
 
 ##Configure additional IP addresses
-The configuration of an additional IP addresses or subnets in FreeBSD is achieved by adding the alias entries in `/etc/rc.conf`. For each additional subnet (or if the additional IP is on a different subnet than the main IP), the correct netmask must be used on the first IP address for that subnet. All subsequent IP addresses should be added as \`32`'s (`\<255.255.255.255\>`).
+The configuration of an additional IP addresses or subnets in FreeBSD is achieved by adding the alias entries in `/etc/rc.conf`. For each additional subnet (or if the additional IP is on a different subnet than the main IP), the correct netmask must be used on the first IP address for that subnet. All subsequent IP addresses should be added as `\32` 's (`<255.255.255.255>`).
 
 ```
 ifconfig_<interface>_alias0="inet <ipadresse1> netmask 255.255.255.248"
