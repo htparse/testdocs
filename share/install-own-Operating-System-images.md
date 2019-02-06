@@ -1,3 +1,16 @@
+---
+path: "/community/share/install-own-Operating-System-images"
+date: "2019-02-06"
+title: "How to install your own Operating System images"
+short_description: "Please be aware that Hetzner Online doesn't offer any support for the installation of custom images, and can't offer any warranty on the functionality of the installed system"
+tags: ["getting started", "Hetzner Offical"]
+views: "100"
+author: "Hetzner Online"
+author_img: "https://avatars3.githubusercontent.com/u/30047064?s=200&v=4"
+author_description: "Web hoster & data center operator | For more than 20 years we've made a name for ourself with our amazingly low prices, quality hardware, efficient data centers, and knowledgable customer support."
+header_img: "https://community-cdn-digitalocean-com.global.ssl.fastly.net/assets/tutorials/images/large/dockerCompose_twitter.png?1468612717"     
+---
+
 ##Requirements for installing other Operating System images
 Please be aware that Hetzner Online doesn't offer any support for the installation of custom images, and can't offer any warranty on the functionality of the installed system
 
