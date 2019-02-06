@@ -34,11 +34,11 @@ An installation can also be performed by using the original installer of FreeBSD
 
 `bsdinstall`
 
-**A note about the CX models:** The following line must be added to /boot/loader.conf, as FreeBSD will otherwise not boot:
+**A note about the CX models:** The following line must be added to `/boot/loader.conf`, as FreeBSD will otherwise not boot:
 
 `beastie_disable="YES"`
 
-**A note regarding the EX41/EX51 and PX61 models:** The following line can be added to /boot/loader.conf to disable the ACPI debug messages on the console:
+**A note regarding the EX41/EX51 and PX61 models:** The following line can be added to `/boot/loader.conf` to disable the ACPI debug messages on the console:
 
 `debug.acpi.disabled="thermal"`
 
@@ -46,13 +46,13 @@ To work around clock skew issues on virtual servers (like CX models), it is also
 
 `kern.timecounter.hardware=i8254`
 
-in /etc/sysctl.conf
+in `/etc/sysctl.conf`
 
 ##Network Configuration
 Please note that it is not possible to reach servers on the same subnet directly. Instead, you will have to send the packets to your gateway.
 
 ###IPv4
-The special routing paramters can be specified in /etc/rc.conf:
+The special routing paramters can be specified in `/etc/rc.conf`:
 
 ```
 ifconfig_re0="inet <insert main ip>/32"
@@ -67,7 +67,7 @@ route_default="default $gateway_ip"
 
 ###IPv6
 
-The default IPv6 gateway fe80::1 can be defined in /etc/rc.conf:
+The default IPv6 gateway fe80::1 can be defined in `/etc/rc.conf`:
 
 ```
 ipv6_default_interface="re0"
@@ -77,7 +77,7 @@ ipv6_defaultrouter="fe80::1%re0"
 ```
 
 ##Configure additional IP addresses
-The configuration of an additional IP addresses or subnets in FreeBSD is achieved by adding the alias entries in **/etc/rc.conf**. For each additional subnet (or if the additional IP is on a different subnet than the main IP), the correct netmask must be used on the first IP address for that subnet. All subsequent IP addresses should be added as /32's (255.255.255.255).
+The configuration of an additional IP addresses or subnets in FreeBSD is achieved by adding the alias entries in **/etc/rc.conf**. For each additional subnet (or if the additional IP is on a different subnet than the main IP), the correct netmask must be used on the first IP address for that subnet. All subsequent IP addresses should be added as \`32`'s (`\<255.255.255.255\>`).
 
 ```
 ifconfig_<interface>_alias0="inet <ipadresse1> netmask 255.255.255.248"
