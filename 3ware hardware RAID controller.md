@@ -1,5 +1,5 @@
 ---
-path: "/community/share/githubtest"
+path: "/community/share/3ware hardware RAID controller"
 date: "2019-02-05"
 title: "3ware hardware RAID controller"
 short_description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
