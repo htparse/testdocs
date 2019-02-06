@@ -1,5 +1,5 @@
 ---
-path: "/community/share/Failover_Script.md"
+path: "/community/share/failover-script"
 date: "2019-02-05"
 title: "Failover Script"
 short_description: "With this script it is possible to move the failover IP."
