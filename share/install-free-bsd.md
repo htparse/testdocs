@@ -1,7 +1,7 @@
 ---
 path: "/community/share/install-free-bsd"
 date: "2019-02-06"
-title: "Install FreeBSD"
+title: "How to get started with FreeBSD"
 short_description: "The FreeBSD Rescue System is updated regularly and provides bsdinstall for easy installation."
 tags: ["getting started", "Hetzner Offical"]
 views: "100"
