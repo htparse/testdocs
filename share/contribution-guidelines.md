@@ -1,11 +1,14 @@
 ---
-path: "/community/share/githubtest"
-date: "2019-01-10"
-title: "Contribution Guidelines"
-short_description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+path: "/community/share/ssh"
+date: "2019-02-09"
+title: "SSH"
+short_description: "If you’re not fluent in English, but you have a great tutorial
+        to share in a different language, please reach out to us. We
+        might still accept the tutorial, especially for those written in
+        German or Russian."
 tags: ["Guidelines", "Hetzner Offical"]
 views: "100"
-author: "Florian Drechsler"
+author: "Hetzner Online"
 author_img: "https://placehold.it/50x50"
 author_description: "At vero eos et accusam <a class='link-single-internal' href='#'>Link</a> et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur  <a class='link-single-external' href='#'>Github</a>  sadipscing elitr, sed diam nonumy eirmod tempor"
 header_img: ""     
