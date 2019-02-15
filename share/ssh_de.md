@@ -1,3 +1,15 @@
+---
+path: "/community/share/ssh_de"
+date: "2019-02-15"
+title: "SSH"
+short_description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+tags: ["Test", "Hetzner Offical"]
+views: "100"
+author: "Hetzner Online"
+author_img: "https://avatars3.githubusercontent.com/u/30047064?s=200&v=4"
+author_description: "At vero eos et accusam <a class='link-single-internal' href='#'>Link</a> et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur  <a class='link-single-external' href='#'>Github</a>  sadipscing elitr, sed diam nonumy eirmod tempor"
+header_img: "https://community-cdn-digitalocean-com.global.ssl.fastly.net/assets/tutorials/images/large/Database-Mostov_v4.1_twitter-_-facebook.png?1550071669"     
+---
 
 ## Was ist SSH?
 
