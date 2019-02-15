@@ -1,3 +1,16 @@
+---
+path: "/community/share/3ware-hardware-RAID-controller_de"
+date: "2019-02-15"
+title: "3ware hardware RAID controller_de"
+short_description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+tags: ["Test", "Hetzner Offical"]
+views: "100"
+author: "Hetzner Online"
+author_img: ""
+author_description: "At vero eos et accusam <a class='link-single-internal' href='#'>Link</a> et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur  <a class='link-single-external' href='#'>Github</a>  sadipscing elitr, sed diam nonumy eirmod tempor"
+header_img: ""     
+---
+
 ##3ware Hardware-RAID-Controller
 Das von 3ware entwickelte Programm zur Administration des RAID-Controllers finden Sie in unserem Download-Bereich unter:
 
