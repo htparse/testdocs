@@ -1,3 +1,18 @@
+---
+path: "/community/tutorials/failover-script"
+date: "2019-02-05"
+title: "Failover Script"
+short_description: "With this script it is possible to move the failover IP."
+tags: ["Test", "Hetzner Official"]
+views: "100"
+author: "Hetzner Online"
+author_img: ""
+author_description: ""
+header_img: ""     
+---
+
+#FreeBSD Installieren
+
 ##Einleitung
 Das FreeBSD Rescuesystem wird regelmaessig aktualisiert und stellt bsdinstall zur einfachen Installation bereit.
 
