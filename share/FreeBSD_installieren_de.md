@@ -1,6 +1,6 @@
 ---
-path: "/community/tutorials/failover-script"
-date: "2019-02-05"
+path: "/community/share/failover-script"
+date: "2019-03-07"
 title: "Failover Script"
 short_description: "With this script it is possible to move the failover IP."
 tags: ["Test", "Hetzner Official"]
